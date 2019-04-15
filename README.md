@@ -1,2 +1,3 @@
 # instacart-R
-R scripts for the Kaggle 2017 challenge: EDA, MB, SVD
+# R code for the Instacart Challenge by Nick Evangelopoulos (2019), nick.evangelopoulos66@gmail.com
+# Based on examples from Kaggle
